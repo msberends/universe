@@ -4,10 +4,6 @@
         "url": "https://github.com/msberends/AMR"
     },
     {
-        "package": "clean",
-        "url": "https://github.com/msberends/clean"
-    },
-    {
         "package": "cleaner",
         "url": "https://github.com/msberends/cleaner"
     }
