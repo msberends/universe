@@ -6,5 +6,9 @@
     {
         "package": "cleaner",
         "url": "https://github.com/msberends/cleaner"
+    },
+    {
+        "package": "plot2",
+        "url": "https://github.com/msberends/plot2"
     }
 ]
